@@ -1,0 +1,5 @@
+numpy>=1.19.0
+pyrtlsdr>=0.2.9
+tensorflow>=2.5.0
+scipy>=1.7.0
+h5py>=3.1.0

@@ -1,6 +1,7 @@
 # Project specific
 dataset/
 model/trained_model.h5
+*.log
 
 # Python virtual environments
 .venv/
