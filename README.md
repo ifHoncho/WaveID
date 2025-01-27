@@ -1,6 +1,7 @@
 # WaveID
 
 A real-time radio signal modulation classifier using RTL-SDR and deep learning.
+Designed for use with DeepSig's RadioML 2018.01A dataset.
 
 ## Features
 - Real-time signal classification
